@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "fifa",
+    "plateforme": "pc",
+    "prix": 12.66,
+    "note": 8,
+    "type": "nbl",
+    "developpeur": "ea arts"
+  },
+
+
+  {
+    "id": 1,
+    "name": "dumble",
+    "plateforme": "ps4",
+    "prix": 18.66,
+    "note": 9,
+    "type": "kato",
+    "developpeur": "sony"
+  }
+]

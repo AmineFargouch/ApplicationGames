@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="167.0" prefWidth="346.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.emsi.controller.LoginController">
+    <children>
+        <Label layoutX="43.0" layoutY="88.0" text="Password" />
+        <Label layoutX="43.0" layoutY="40.0" text="Email" />
+        <TextField fx:id="email" layoutX="173.0" layoutY="36.0" />
+        <Button fx:id="auth" layoutX="204.0" layoutY="137.0" mnemonicParsing="false" text="S'authentifier" />
+        <PasswordField fx:id="password" layoutX="174.0" layoutY="84.0" />
+    </children>
+</AnchorPane>

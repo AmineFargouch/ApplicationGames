@@ -1,0 +1,4 @@
+1,sinta,sic,12.3,8,horreur,Electronique arts
+2,gow,ps4,19.99,9,action,Ubisoft
+3,pes,xbox,29.99,7,aventure,Rockstar,Games
+4,fifa,pc,9.99,6,puzzle,Nintendo
